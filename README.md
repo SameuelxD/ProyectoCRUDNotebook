@@ -30,7 +30,7 @@ Este proyecto es una aplicación basada en **Streamlit** que permite realizar op
 ## 📖 Instalación y Configuración
 ### 1️⃣ Clonar el repositorio
 ```sh
-git clone https://github.com/tu-usuario/CRUD-ChromaDB-Streamlit.git
+git clone https://github.com/SameuelxD/ProyectoCRUDNotebook
 cd ProyectoNotebook
 ```
 
